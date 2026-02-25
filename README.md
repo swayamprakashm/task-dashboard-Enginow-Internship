@@ -40,7 +40,7 @@ This application allows users to:
 
 ## 📸 Video & Screenshots
 
-<video controls src="20260225-1802-58.5220122.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/0f708f17-ee47-4bf6-a902-db437c711731
 
 ![alt text](image.png)
 
