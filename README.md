@@ -132,6 +132,7 @@ This project helped enhance practical frontend development skills and real-world
 ## 📌 Author
 
 Swayam Prakash Macharla
+
 GitHub: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
 
 ---
